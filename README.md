@@ -12,7 +12,7 @@ For a given key press:
 * animation
 
 ## Demo
-
+![animation demo](https://github.com/salty-byte/CG_Umbrella/blob/master/demo/umbrella_demo.gif)
 
 ## Usage
 #### Run 
