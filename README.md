@@ -58,3 +58,6 @@ $ ./umbrella
 ```sh
 $ make umbrella
 ```
+
+## LICENSE
+MIT License
