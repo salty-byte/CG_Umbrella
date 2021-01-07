@@ -2,7 +2,8 @@ CG Umbrella
 ====
 
 ## Overview
-このプログラムは大学時代の講義で作成したプログラムです。  
+このプログラムは大学講義の課題として作成したものです。  
+OpenGL(C言語)で書いてます。  
 The umbrella program is written by OpenGL.  
 Its canopy is used Bezier curve.  
 For a given key press:  
@@ -18,7 +19,7 @@ For a given key press:
 #### Run 
 
 ```sh
-$ ./umbrella
+./umbrella
 ```
 
 #### Key bindings
@@ -56,7 +57,7 @@ $ ./umbrella
 ## Build
 
 ```sh
-$ make umbrella
+make umbrella
 ```
 
 ## LICENSE
